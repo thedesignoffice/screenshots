@@ -1,4 +1,4 @@
-# screenshots
+# The Collective Desktop
 
 The Collective Desktop is a single image monthly newsletter from The Design Office, a group of 16+ designers who share a workspace in downtown Providence, R.I.
 
